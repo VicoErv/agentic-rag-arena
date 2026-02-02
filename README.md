@@ -2,7 +2,7 @@
 
 ![Debate Hub Interface](https://raw.githubusercontent.com/VicoErv/agentic-rag-arena/main/image.png)
 
-A sophisticated real-time debate platform where you can engage in multi-agent discussions with AI personalities.
+High-performance AI debate platform featuring real-time RAG memory, semantic KV caching, and orchestrated turn-taking across diverse AI personalities. Powered by LangGraph, ChromaDB, and FastAPI.
 
 ## Infrastructure
 This project is orchestrated via Docker Compose and consists of the following services:
