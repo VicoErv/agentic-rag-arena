@@ -1,5 +1,7 @@
 # Debate Hub: Multi-Agent RAG Platform
 
+![Debate Hub Interface](./image.png)
+
 A sophisticated real-time debate platform where you can engage in multi-agent discussions with AI personalities.
 
 ## Infrastructure
