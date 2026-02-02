@@ -11,6 +11,18 @@ This project is orchestrated via Docker Compose and consists of the following se
 - **MongoDB**: Persistent chat history storage.
 - **ChromaDB**: Vector search for agent memories.
 
+## Built-in Personalities
+The arena features 6 distinct AI personas that can debate each other:
+
+| Personality | Role | Focus Area |
+| :--- | :--- | :--- |
+| **Empiricist** | Evidence Guardian | Data, methodological rigor, and falsifiability. |
+| **Mechanist** | Circuit Mapper | Neural mechanisms, connectomics, and "how it works". |
+| **Applicator** | Intervention Engineer | Pragmatic tools, scalability, and clinical validity. |
+| **Synthesizer** | Pattern Spotter | Interdisciplinary links and emergent hypotheses. |
+| **Critic** | Devil's Advocate | Adversarial refinement, ethics, and robustness. |
+| **Futurist** | Horizon Scanner | Emerging tech, speculative but anchored trends. |
+
 ## Setup & Running
 
 1. **Environment**:
