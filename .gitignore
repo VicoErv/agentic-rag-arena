@@ -1,0 +1,8 @@
+data/
+.env
+.DS_Store
+.idea/
+.vscode/
+# Ignore sub-repo metadata but track the folders
+# backend/.git
+# frontend/.git
