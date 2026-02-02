@@ -1,6 +1,6 @@
-# Debate Hub: Multi-Agent RAG Platform
+# Agentic RAG Arena
 
-![Debate Hub Interface](./image.png)
+![Debate Hub Interface](https://raw.githubusercontent.com/VicoErv/agentic-rag-arena/main/image.png)
 
 A sophisticated real-time debate platform where you can engage in multi-agent discussions with AI personalities.
 
